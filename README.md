@@ -15,3 +15,6 @@
             <img src="https://img.shields.io/badge/Whatsapp-34af23?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
 </div>
+
+
+## Information about me:
