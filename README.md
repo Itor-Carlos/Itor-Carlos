@@ -23,3 +23,6 @@
 * **Age**: 19
 * **Living in**: Irecê, Bahia
 * **University**: Not yet. Currently I'm still studying 3rd year at info technical high school
+
+
+## Languages and Tools:
