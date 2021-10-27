@@ -18,3 +18,8 @@
 
 
 ## Information about me:
+
+* **Name**: Itor Carlos Souza Queiroz
+* **Age**: 19
+* **Living in**: Irecê, Bahia
+* **University**: Not yet. Currently I'm still studying 3rd year at info technical high school
