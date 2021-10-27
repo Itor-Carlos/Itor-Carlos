@@ -44,3 +44,5 @@
         <img src="imgs/postman-icon.svg" style="margin: 0 3px;" alt="spring" width="40" height="40"/> 
     </a>    
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itor-Carlos&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
