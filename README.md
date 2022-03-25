@@ -30,7 +30,7 @@ and starting my graduate in Computer Science at UFS
 * **Age**: 19
 * **Living in**: Irecê, Bahia
 * **University**: Computer Science by UFS
-
+* **Experience**: Neither
 
 ## Languages and Tools:
 
