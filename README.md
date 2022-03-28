@@ -29,7 +29,7 @@ and starting my graduate in Computer Science at UFS
 * **Name**: Itor Carlos Souza Queiroz
 * **Age**: 19
 * **Living in**: Irecê, Bahia
-* **University**: Computer Science by UFS
+* **University**: Computer Science at UFS
 * **Experience**: Neither
 
 ## Languages and Tools:
