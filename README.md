@@ -22,7 +22,7 @@ and starting my graduate in Computer Science at UFS
 * **University**: Computer Science at UFS
 * **Experience**: Neither
 
-## Languages and Tools:
+## Languages, Tools and Frameworks
 
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-111?style=for-the-badge&logo=springboot&logoColor=white)
