@@ -24,23 +24,11 @@ and starting my graduate in Computer Science at UFS
 
 ## Languages and Tools:
 
-<p style="background-color: #141321; border-radius: 9999px; padding: 10px; border: 1px solid #DC3C7E"> 
-    <a href="https://www.java.com" target="_blank">  
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="margin: 0 3px;" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" style="margin: 0 3px;" alt="java" width="40" height="40"/> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="margin: 0 3px;" alt="git" width="40" height="40"/> 
-    </a>
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="margin: 0 3px; " alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <img src="imgs/postman-icon.svg" style="margin: 0 3px;" alt="spring" width="40" height="40"/> 
-    </a>    
-</p>
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-111?style=for-the-badge&logo=springboot&logoColor=white)
+![Git](https://img.shields.io/badge/git-111?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-111?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-111?style=for-the-badge&logo=postman&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itor-Carlos&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
