@@ -21,6 +21,7 @@ and starting my graduate in Computer Science at UFS
 * **Living in**: Irecê, Bahia
 * **University**: Computer Science at UFS
 * **Experience**: Neither
+* **Goals**: Learn English
 
 ## Languages, Tools and Frameworks
 
