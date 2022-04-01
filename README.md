@@ -8,10 +8,10 @@ and starting my graduate in Computer Science at UFS
 
 ## Connect with me:
 
-[![instagram](https://img.shields.io/badge/instagram-111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itor_carlos/)
-[![linkedin](https://img.shields.io/badge/linkedin-111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itor-carlos-souza-queiroz-255b4616a)
-[![twitter](https://img.shields.io/badge/twitter-111?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itor_carlos)
-[![whatsapp](https://img.shields.io/badge/whatsapp-111?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5574988529360)
+[![instagram](https://img.shields.io/badge/instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itor_carlos/)
+[![linkedin](https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itor-carlos-souza-queiroz-255b4616a)
+[![twitter](https://img.shields.io/badge/twitter-111111?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itor_carlos)
+[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5574988529360)
 
 
 ## Information about me:
