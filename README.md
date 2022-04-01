@@ -31,6 +31,6 @@ and starting my graduate in Computer Science at UFS
 ![MySQL](https://img.shields.io/badge/mysql-111?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-111?style=for-the-badge&logo=postman&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itor-Carlos&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itor-Carlos&show_icons=true&theme=aura&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itor-Carlos&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itor-Carlos&show_icons=true&theme=aura&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
