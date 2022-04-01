@@ -31,6 +31,11 @@ and starting my graduate in Computer Science at UFS
 ![MySQL](https://img.shields.io/badge/mysql-111?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-111?style=for-the-badge&logo=postman&logoColor=white)
 
+## Hobbies
+- Study programming
+- Mangas
+- Sports 
+
 ## GitHub Analytics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itor-Carlos&show_icons=true&theme=midnight-purple&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
