@@ -30,6 +30,8 @@ and starting my graduate in Computer Science at UFS
 ![Git](https://img.shields.io/badge/git-111?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-111?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-111?style=for-the-badge&logo=postman&logoColor=white)
+![HTML](https://img.shields.io/badge/postman-111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/postman-111?style=for-the-badge&logo=css3&logoColor=white)
 
 ## GitHub Analytics
 
