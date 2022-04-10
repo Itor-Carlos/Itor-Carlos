@@ -2,7 +2,7 @@
 - 📚 I’m currently learning web development with Java ecosytem 
 and starting my graduate in Computer Science at UFS
 
-- 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases, OOP in Java, Computer Networks and System Analysis 
+- 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases, OOP in Java, C+, Computer Networks and System Analysis 
 
 - 📫 How to reach me: **itor28carlos@gmail.com**
 
