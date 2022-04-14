@@ -33,6 +33,7 @@ and starting my graduate in Computer Science at UFS
 ![Postman](https://img.shields.io/badge/postman-111?style=for-the-badge&logo=postman&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-111?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-111?style=for-the-badge&logo=css3&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/thymeleaf-111?style=for-the-badge&logo=thymeleaf3&logoColor=white)
 
 ## GitHub Analytics
 
