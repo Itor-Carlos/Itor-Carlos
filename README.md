@@ -22,7 +22,7 @@ and starting my graduate in Computer Science at UFS
 * **Living in**: Irecê, Bahia, Brazil
 * **University**: Computer Science at UFS
 * **Experience**: Neither
-* **Goals**: Learn English and get my first job as a backend developer
+* **Goals**: Learn English and get my first job as a Java Backend Developer
 
 ## Languages, Tools and Frameworks
 
