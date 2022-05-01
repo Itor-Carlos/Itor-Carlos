@@ -20,7 +20,6 @@ and starting my graduate in Computer Science at UFS
 * **Age**: 19
 * **Living in**: Irecê, Bahia, Brazil
 * **University**: Computer Science at UFS
-* **Experience**: Neither
 * **Goals**: Learn English and get my first job as a Java Backend Developer
 
 ## Languages, Tools and Frameworks
