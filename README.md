@@ -11,6 +11,8 @@ and starting my graduate in Computer Science at UFS
 [![linkedin](https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itor-carlos-souza-queiroz-255b4616a)
 [![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5574988529360)
 [![hackerrank](https://img.shields.io/badge/hackerrank-111111?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/itor51carlos)
+[![hackerrank](https://img.shields.io/badge/hackerrank-111111?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/itor51carlos)
+
 
 
 ## Information about me:
