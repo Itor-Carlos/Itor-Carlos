@@ -1,5 +1,5 @@
 
-- 📚 I’m currently learning web development with Java ecosytem, AWS, Docker
+- 📚 I’m currently learning web development with Java ecosytem, AWS, Web Development
 and starting my graduate in Computer Science at UFS
 
 - 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases, OOP in Java, C+, Computer Networks, System Analysis, HTML, CSS and JS
