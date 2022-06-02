@@ -2,7 +2,7 @@
 - 📚 I’m currently learning web development with Java ecosytem, AWS, Web Development
 and starting my graduate in Computer Science at UFS
 
-- 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases, OOP in Java, C+, Computer Networks, System Analysis, HTML, CSS and JS
+- 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases, OOP in Java, C+, Computer Networks, System Analysis,Basic about Harware, HTML, CSS and JS
 
 - 📫 How to reach me: **itorcarlos.dev@gmail.com**
 
