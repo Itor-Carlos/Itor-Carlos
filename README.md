@@ -34,6 +34,8 @@ and starting my graduate in Computer Science at UFS
 ![HTML](https://img.shields.io/badge/html5-111?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-111?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript-111?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-111?style=for-the-badge&logo=sql&logoColor=white)
+
 
 
 ## GitHub Analytics
