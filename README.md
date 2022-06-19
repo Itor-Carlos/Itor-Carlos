@@ -4,7 +4,7 @@ and starting my graduate in Computer Science at UFS
 
 - 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases (MySQL, PostgreeSQL), OOP in Java, C+, Computer Networks, System Analysis,Basic about Harware, HTML, CSS and JS
 
-- 📫 How to reach me: **itorcarlos.dev@gmail.com** or **itor28carlos@gmail.com**
+- 📫 How to reach me: **itorcarlos.dev@gmail.com**
 
 ## Connect with me:
 
