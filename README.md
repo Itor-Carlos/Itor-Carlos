@@ -4,8 +4,7 @@ and starting my graduate in Computer Science at UFS
 
 - 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases (MySQL, PostgreeSQL), OOP in Java, C+, Computer Networks, System Analysis,Basic about Harware, HTML, CSS and JS
 
-- 📫 How to reach me: **itorcarlos.dev@gmail.com** or **itor28carlos@gmail.com**
-
+- 📫 How to reach me: **itorcarlos.dev@gmail.com**
 ## Connect with me:
 
 [![linkedin](https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itor-carlos-souza-queiroz-255b4616a)
