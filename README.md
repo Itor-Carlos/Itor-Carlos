@@ -20,7 +20,7 @@ and starting my graduate in Computer Science at UFS
 
 * **Name**: Itor Carlos Souza Queiroz
 * **Age**: 19
-* **University**: Computer Science at UFS - 1/8
+* **University**: Computer Science at UFS - 1/9
 * **Goals**: Learn English and get my first job as a Java Backend Developer
 
 ## Languages, Tools and Frameworks
