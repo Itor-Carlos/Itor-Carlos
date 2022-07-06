@@ -20,7 +20,7 @@
 * **Name**: Itor Carlos Souza Queiroz
 * **Age**: 19
 * **University**: Computer Science at UFS - 1/9
-* **Goals**: Learn English and get my first job as a Java Backend Developer
+* **Goals**: Learn English and get my first job as a Backend Developer
 
 ## Languages, Tools and Frameworks
 
