@@ -11,7 +11,6 @@
 [![hackerrank](https://img.shields.io/badge/hackerrank-111111?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/itor51carlos)
 [![twitter](https://img.shields.io/badge/twitter-111111?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CarlosItor)
 [![beecrowd](https://img.shields.io/badge/beecrowd-111111?style=for-the-badge&logo=beecrowd&logoColor=white)](https://www.beecrowd.com.br/judge/pt/profile/503714)
-[![instagram](https://img.shields.io/badge/instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itor_carlos/)
 
 
 
