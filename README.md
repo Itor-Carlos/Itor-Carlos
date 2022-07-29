@@ -1,6 +1,8 @@
 
 - 📚 I’m currently learning web development with Java ecosytem. I'm in the first period of Computer Science at UFS
 
+- 📚 I'm interested in learning about mobile development and machine learning
+
 - 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases (MySQL), OOP in Java, C+, Computer Networks, System Analysis,Basic about Hardware, HTML, CSS and JS
 
 - 📫 How to reach me: **itorcarlos.dev@gmail.com** or **itor28carlos@gmail.com** or **itor51carlos@gmail.com**
