@@ -1,7 +1,7 @@
 
 - 📚 I’m currently learning web development with Java ecosytem. I'm in the first period of Computer Science at UFS
 
-- 📚 I'm interested in learning about mobile development (React Native) and machine learning
+- 📚 I'm interested in learning about mobile development (React Native), machine learning and everything about Functional Programming
 
 - 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases (MySQL), OOP in Java, C+, Computer Networks, System Analysis,Basic about Hardware, HTML, CSS and JS
 
