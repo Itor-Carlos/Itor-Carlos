@@ -1,5 +1,5 @@
 
-- 📚 I’m currently learning web development with Java ecosytem. I'm in the first period of Computer Science at UFS
+- 📚 I’m currently learning web development with Java ecosytem. 
 
 - 📚 I'm interested in learning about mobile development (React Native), machine learning and everything about Functional Programming
 
