@@ -21,7 +21,7 @@
 * **Age**: 20
 * **University**: Computer Science at UFS 
 * **Goals**: Learn English and get my first job as a Backend Developer
-* **Hobbies**: Read manga, watch and play basketball
+* **Hobbies**: Read manga, boxing ,watch and play basketball
 
 ## Languages, Tools and Frameworks
 
