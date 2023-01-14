@@ -1,5 +1,5 @@
 
-- 📚 I’m currently learning web development with Java ecosytem. 
+- 📚 I’m currently learning Web development with Java ecosytem. 
 
 - 📚 I'm interested in learning about  Open Source, machine learning and everything about Web
 
