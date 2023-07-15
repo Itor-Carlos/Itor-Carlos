@@ -24,7 +24,7 @@
 
 ## Languages, Tools and Frameworks
 
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-111?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-111?style=for-the-badge&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/git-111?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-111?style=for-the-badge&logo=mysql&logoColor=white)
