@@ -17,7 +17,7 @@
 ## Information about me:
 
 * **Name**: Itor Carlos Souza Queiroz
-* **Age**: 20
+* **Age**: 21
 * **University**: Computer Science at UFS 
 * **Goals**: Learn English and get my first job as a FullStack Developer
 * **Hobbies**: Read manga, boxing ,watch and play basketball
