@@ -21,6 +21,7 @@
 * **University**: Computer Science at UFS 
 * **Goals**: Learn English and get my first job as a FullStack Developer
 * **Hobbies**: Read manga, boxing ,watch and play basketball
+* **Studying**: TypeScript and React development
 
 ## Languages, Tools and Frameworks
 
