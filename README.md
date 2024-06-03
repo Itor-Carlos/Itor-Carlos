@@ -21,7 +21,7 @@
 * **Age**: 21
 * **University**: Computer Science at UFS 
 * **Goals**: Learn English
-* **Hobbies**: Read manga, boxing ,watch and play basketball
+* **Hobbies**: Read manga, watch and play basketball
 * **Studying**: TypeScript, React and Django
 
 ## Languages, Tools and Frameworks
