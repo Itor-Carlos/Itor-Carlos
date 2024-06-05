@@ -37,6 +37,7 @@
 ![C](https://img.shields.io/badge/c-111?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-111?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-111?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-111?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
