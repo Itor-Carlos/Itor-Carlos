@@ -1,7 +1,7 @@
 
 - 📚 I’m currently learning Web development with Java and JavaScript ecosytem. 
 
-- 📚 I'm interested in learning about  Open Source, machine learning and everything about Web
+- 📚 I'm interested in learning everything about Web
 
 - 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases (MySQL), OOP, C, Computer Networks, System Analysis, Java, HTML, CSS, JS and Spring Boot
 - Computer Science at the Federal University of Sergipe (5/9)
