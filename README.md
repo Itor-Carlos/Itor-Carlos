@@ -19,11 +19,8 @@
 
 * **Name**: Itor Carlos Souza Queiroz
 * **Age**: 21
-* **University**: Computer Science at UFS 
-* **Goals**: Learn English and German
-* **Hobbies**: Read manga, watch and play basketball
-* **Studying**: TypeScript, React and Django
-
+* **University**: Computer Science at UFS
+  
 ## Languages, Tools and Frameworks
 
 ![Java](https://img.shields.io/badge/java-111?style=for-the-badge&logo=java&logoColor=white)
