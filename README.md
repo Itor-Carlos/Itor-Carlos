@@ -2,7 +2,6 @@
 - 📚 I’m currently learning Web development
 
 - 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases (MySQL), OOP, C, Computer Networks, System Analysis, Java, HTML, CSS, JS and Spring Boot
-- Graduation in Computer Science at the Federal University of Sergipe (5/9)
 
 - 📫 How to reach me: **itor28carlos@gmail.com**
 ## Connect with me:
@@ -17,7 +16,7 @@
 
 * **Name**: Itor Carlos Souza Queiroz
 * **Age**: 21
-* **University**: Computer Science at UFS
+* **University**: Computer Science at UFS (5/9)
   
 ## Languages, Tools and Frameworks
 
