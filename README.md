@@ -35,11 +35,3 @@
 ![Laravel](https://img.shields.io/badge/laravel-111?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-
-
-
-## GitHub Analytics
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itor-Carlos&show_icons=true&theme=midnight-purple&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itor-Carlos&show_icons=true&theme=midnight-purple&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
