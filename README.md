@@ -7,7 +7,7 @@
 ## Connect with me:
 
 [![linkedin](https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itor-carlos-souza-queiroz-255b4616a)
-[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5574988529360)
+[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5574999250764)
 
 
 
