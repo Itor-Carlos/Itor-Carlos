@@ -4,6 +4,8 @@
 - 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases (MySQL), OOP, C, Computer Networks, System Analysis, Java, HTML, CSS, JS and Spring Boot
 
 - 📫 How to reach me: **itor28carlos@gmail.com**
+- 💻 Work as a Freelance Developer
+  
 ## Connect with me:
 
 [![linkedin](https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itor-carlos-souza-queiroz-255b4616a)
