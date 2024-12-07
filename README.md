@@ -18,7 +18,7 @@
 
 * **Name**: Itor Carlos Souza Queiroz
 * **Age**: 22
-* **University**: Computer Science at UFS (5/9)
+* **University**: Computer Science at UFS (6/9)
   
 ## Languages, Tools and Frameworks
 
