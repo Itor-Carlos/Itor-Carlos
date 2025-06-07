@@ -5,7 +5,6 @@
 - 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases (MySQL), OOP, C, Computer Networks, System Analysis, Java, HTML, CSS, JS and Spring Boot
 
 - 📫 How to reach me: **itor28carlos@gmail.com**
-- 💻 Work as a Freelance Developer with Laravel, Vue.js and MySQL
 - 💻 Work as a researcher at Universidade Federal de Sergipe
   
 ## Connect with me:
