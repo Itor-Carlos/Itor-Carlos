@@ -14,12 +14,11 @@
 
 
 
-
 ## Information about me:
 
 * **Name**: Itor Carlos Souza Queiroz
-* **Age**: 22
-* **University**: Computer Science at UFS (6/9)
+* **Age**: 23
+* **University**: Computer Science at UFS (8/10)
   
 ## Languages, Tools and Frameworks
 
@@ -36,4 +35,5 @@
 ![Docker](https://img.shields.io/badge/docker-111?style=for-the-badge&logo=docker&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-111?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHPl](https://img.shields.io/badge/php-111?style=for-the-badge&logo=php&logoColor=white)
+![Pythonl](https://img.shields.io/badge/php-111?style=for-the-badge&logo=python&logoColor=white)
 
