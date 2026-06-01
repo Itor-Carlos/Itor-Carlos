@@ -1,11 +1,7 @@
 
-- 📚 I’m currently learning Web development and Compilers
-- 📚 Bachelor's Degree in Computer Science at Universidade Federal de Sergipe
-
-- 💻 I was already a Computer Technician student at IFBA, but I don't have a technical degree. This experience gives me knowledge in SQL Databases (MySQL), OOP, C, Computer Networks, System Analysis, Java, HTML, CSS, JS and Spring Boot
-
-- 📫 How to reach me: **itor28carlos@gmail.com**
-- 💻 Work as a researcher at Universidade Federal de Sergipe
+- Hello! I'm a full-stack developer specializing in web solutions and applied Artificial Intelligence. I build scalable products that prioritize modern architecture, high performance, and excellent user experiences.
+ - My expertise includes working with LLMs, Generative AI, and Model Context Protocol (MCP) integrations for seamless context and data orchestration. I thrive on transforming complex challenges into clean, reliable systems.
+- From UI design to developing robust APIs—I love collaborating with cross-functional teams and am always pursuing continuous growth.
   
 ## Connect with me:
 
